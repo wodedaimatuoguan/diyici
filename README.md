@@ -1,2 +1,0 @@
-# diyici
-diyici
